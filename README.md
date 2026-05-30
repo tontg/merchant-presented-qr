@@ -4,6 +4,8 @@ Static browser/PWA tools for **EMV Merchant-Presented QR Codes only**.
 
 Current application version: **0.9.0**.
 
+Live test version: <https://tontg.github.io/mpqr>
+
 This project supports:
 
 - parsing EMV Merchant-Presented QR payloads from image files
