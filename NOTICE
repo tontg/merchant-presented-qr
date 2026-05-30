@@ -1,0 +1,9 @@
+EMV Merchant-Presented QR Parser and Generator
+Version 0.9.0
+Copyright 2026 Gilles Reant
+
+This project source code is licensed under the Apache License, Version 2.0.
+
+Vendored third-party dependencies retain their own licenses.
+
+EMV® is a registered trademark exclusively owned by EMVCo, LLC.
